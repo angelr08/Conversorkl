@@ -1,0 +1,23 @@
+body {
+  background: lightgray;
+  font-family: 'Roboto Slab', serif;
+}
+
+.titulo {
+  font-size: 70px;
+  margin: auto;
+  width: 800px;
+}
+
+.conversor-kilo h2 {
+  font-size: 35px;
+}
+
+.conversor-libra h2 {
+  font-size: 35px;
+}
+
+.conversor-kilo, .conversor-libra {
+  margin: auto;
+  width: 800px;
+}
